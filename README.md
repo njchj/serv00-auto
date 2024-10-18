@@ -69,3 +69,7 @@ FinalShell是一体化的的服务器,网络管理软件,不仅是ssh客户端,�
 ## 特别注意
 
 serv00虽然有10年使用期，但无法清除Apache和其它服务产生的日志，在容量限制情况下，不建议大日志产生的高流量服务和高频次作业任务。
+
+## Star趋势
+
+[![Stargazers Over Time](https://starchart.cc/lopins/serv00-auto-scripts.svg?variant=adaptive)](https://starchart.cc/lopins/serv00-auto-scripts)
