@@ -29,7 +29,7 @@
 
 2. 在侧边栏找到`Secrets and variables`，点击展开选择`Actions`，点击`New repository secret`
     
-3. 然后创建一个名为`ACCOUNTS_JSON`的`Secret`，将 JSON 格式的账号密码字符串作为它的值，如下格式：  
+3. 然后[创建](https://lopins.github.io/serv00-auto-scripts/)一个名为`ACCOUNTS_JSON`的`Secret`，将 JSON 格式的账号密码字符串作为它的值，如下格式：  
 
 ``` json
 [  
@@ -96,3 +96,7 @@ serv00虽然有10年使用期，但无法清除Apache和其它服务产生的日
 ## Star趋势
 
 [![Stargazers Over Time](https://starchart.cc/lopins/serv00-auto-scripts.svg?variant=adaptive)](https://starchart.cc/lopins/serv00-auto-scripts)
+
+## JSON生成
+
+- <https://lopins.github.io/serv00-auto-scripts/>
